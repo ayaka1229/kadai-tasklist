@@ -35,6 +35,5 @@
 				<h2>お探しのデータが見つかりません。</h2>
 			</c:otherwise>
 		</c:choose>
-
 	</c:param>
 </c:import>
