@@ -4,14 +4,14 @@
 <html lang="ja">
     <head>
         <meta charset="UTF-8">
-        <title>お買い物リスト</title>
+        <title>タスク管理</title>
         <link rel="stylesheet" href="<c:url value='/css/reset.css'/>">
         <link rel="stylesheet" href="<c:url value='/css/style.css'/>">
     </head>
     <body>
 		<div id="wrapper">
 			<div id="header">
-				<h1>お買い物リスト アプリケーション</h1>
+				<h1>タスク管理 アプリケーション</h1>
 			</div>
 
 			<div id="content">

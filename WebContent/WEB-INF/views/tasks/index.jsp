@@ -9,7 +9,7 @@
 			</div>
 		</c:if>
 
-			<h2>買い物リスト一覧</h2>
+			<h2>タスク一覧</h2>
 			<ul>
 
 			<c:forEach var="task" items="${tasks }">
