@@ -13,7 +13,7 @@
 </c:if>
 
 <%-- Newのリクエストスコープに入れている --%>
-<label for="content">新しい項目</label><br/>
+<label for="content">新規項目</label><br/>
 <input type="text" name="content" value="${ task.content }"/>
 <br/><br/>
 
